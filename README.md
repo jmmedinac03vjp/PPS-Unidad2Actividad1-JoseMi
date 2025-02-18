@@ -146,4 +146,5 @@ En algunas ocasiones nos podemos encontrar que en él figura información que no
 >__Crea un repositorio  con nombre PPS-Unidad2Actividad1-Tu-Nombre donde desarrolles dicho trazado.__
 
 > No te olvides de documentarlo convenientemente con explicaciones, capturas de pantalla, etc.
+
 >__Sube a la plataforma, tanto el repositorio comprimido como la dirección a tu repositorio de Github.__
