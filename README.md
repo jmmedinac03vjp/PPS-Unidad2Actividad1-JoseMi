@@ -28,7 +28,7 @@ También vamos a ver información de información adicional:
 
 - [Ver el grado de criticidad de una vulnerabilidad y a partir de qué datos se calcula: CVSS.](https://www.first.org/cvss/)
 
-- [Ver el marco MITRE ATT&CK ](https://attack.mitre.org/)
+[- [Ver el marco MITRE ATT&CK ](https://attack.mitre.org/)]:#
 
 ## Trazado
 Vamos a seguir el trazado de una vulnerabilidad a partir del [este artículo del INCIBE](https://www.incibe.es/empresas/avisos/autodesk-ha-publicado-multiples-vulnerabilidades-que-afectan-autocad).
@@ -137,11 +137,11 @@ Podemos descargarla o acceder a su información, desde la página de cve.org dá
 
 En algunas ocasiones nos podemos encontrar que en él figura información que no aparece en la página de la cve.
 
-> ![](images/cveRecord2.png)
+> ![](images/cveRecord1.png)
 
 
 ## ENTREGA
-> __Realiza el trazado de la vulnerabilidad que informa [este artículo](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra)__
+> __Realiza el trazado de la vulnerabilidad de la que informa [este artículo](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra)__
 
 >__Crea un repositorio  con nombre PPS-Unidad2Actividad1-Tu-Nombre donde desarrolles dicho trazado.__
 
