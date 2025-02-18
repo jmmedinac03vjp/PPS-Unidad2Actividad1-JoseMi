@@ -12,6 +12,23 @@ Tenemos varios objetivos:
 
 En [este enlace](https://moodle.educarex.es/ccff_iesvjp/pluginfile.php/27882/mod_resource/content/17/PresentacionUnidad2NivelesSeguridadAplicaciones2025.pdf) puedes ver la presentación donde se pueden encontrar información sobre las organizaciónes y agencias que mantienen información sobre amenazas, vulnerabilidades, debilidades etc.
 
+Vemos que es grande la información en fuentes abiertas que podemos consultar. Aquí nos centraremos en obtener información principalmente de las siguientes listas:
+- [Lista de vulnerabilidades comunes: CVE](https://www.cve.org/)
+
+- [Base de datos de vulnerabilidades: NVD](https://www.nist.gov/)
+
+- [Lista de debilidades comunes: CWE](https://cwe.mitre.org/)
+
+- [Lista de plataformas comunes](https://cpe.mitre.org/)
+
+- [Lista de patrones de ataque](https://capec.mitre.org/)
+
+
+También vamos a ver información de información adicional:
+
+- [Ver el grado de criticidad de una vulnerabilidad y a partir de qué datos se calcula: CVSS.](https://www.first.org/cvss/)
+
+- [Ver el marco MITRE ATT&CK ](https://attack.mitre.org/)
 
 ## Trazado
 Vamos a seguir el trazado de una vulnerabilidad a partir del [este artículo del INCIBE](https://www.incibe.es/empresas/avisos/autodesk-ha-publicado-multiples-vulnerabilidades-que-afectan-autocad).
@@ -30,7 +47,7 @@ Allí vemos una descripción de los problemas y cómo son varias las vulnerabili
 
 Además el desarrollador, nos informa de los productos y versiones afectadas y desde dónde nos podemos descargar los parches de seguridad o software con las vulneravilidades ya corregidas.
 
-Vamos a proceder con el trazado de la primera vulnerabilidad presente, en nuestro caso la __CVE-2023-29073__.
+Vamos a proceder con el trazado de la primera vulnerabilidad presente, en nuestro caso, la __CVE-2023-29073__.
 
 Para ver información sobre dicha vulnerabilidad podemos acudir al menos a dos fuentes:
 
