@@ -66,6 +66,18 @@ Si ponemos el cursor sobre el Vector nos aparecerán los valores correspondiente
 
 ![](images/Screenshot_20250217_184917.png)
 
+Donde podemos ver que ese 9.8 de criticidad está compuesto por un valor de 5.9 de __las métricas de probabilidad__:
+- El vector de ataque se produce desde la red. 
+- La complejidad de ataque es baja.
+- No se necesitan ningún privilegio en el sistema para explotar la vulnerabilidad.
+- Tampoco se requiere interacción con el usuario por lo que puede ser realizada de modo automatizado.
+- Y por último, el alcance no se modifica (es decir, que no podemos acceder o cambiar a otro sistema con controles de seguridad diferente). Éste es el único parámetro que nos baja 0,2, sino, la criticidad sería 10.
+  
+Por otra parte las __métricas de impacto__ suman 3.9 puntos:
+- Impacto en Confidencialidad: alto.
+- Impacto en Integridad: alto.
+- Impacto en Disponibilidad: alto.
+
 ## Información sobre las debilidades explotadas.
 
 Otra información importante a obtener son las debilidades que son explotadas. Podemos obtener también esta información tanto en la información de la NVD como en la de CVE.ORG.
